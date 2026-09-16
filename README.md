@@ -1,87 +1,47 @@
-# Hi, I'm Divyanshu Raj 👋
+# Divyanshu Raj 👋
 
 ### Full Stack Developer
 
-I build full-stack web applications using **MERN, Java Spring Boot, and Frappe/ERPNext**.
+Building web applications with **MERN, Java Spring Boot, and Frappe Framework**.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,js,ts,python,html,css,tailwind,mongodb,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,js,ts,python,mongodb,mysql,html,css,tailwind,git,github" />
 </p>
 
-### Also working with
-
-- Frappe Framework
-- ERPNext
-- MariaDB
-- Spring Security
-- JWT
-- REST APIs
-- Redux
-- Postman
-- Cloudinary
-- MongoDB Atlas
+**Backend:** REST APIs · JWT · Spring Security · Frappe ORM  
+**Databases:** MongoDB · MySQL · MariaDB
 
 ---
 
-## 💻 Projects
+## 🚀 Featured Projects
 
-### 🛒 Organic Mart
-Full-stack e-commerce platform built with React, Spring Boot, Spring Security, JWT, MySQL and Razorpay.
+**[CampusConnect](https://github.com/Virus-0000/CampusConnect)**  
+MERN-based social networking platform for students and developers.  
+[Live](https://campus-connect-xi-peach.vercel.app)
 
-🔗 [Live Demo](https://organica-ecommerce-client.onrender.com)  
-🔗 [GitHub](https://github.com/Virus-0000/organica-ecommerce)
+**[Organic Mart](https://github.com/Virus-0000/organica-ecommerce)**  
+E-commerce platform built with React, Spring Boot, MySQL & Razorpay.  
+[Live](https://organica-ecommerce-client.onrender.com)
 
-### 👥 CampusConnect
-MERN-based developer and student networking platform with authentication, profiles, posts, comments and community features.
+**[TaskFlow Manager](https://github.com/Virus-0000/TaskFlow-Manager-Portfolio)**  
+Task management application built with MERN, TypeScript & Zustand.  
+[Live](https://task-manager-rfo2.onrender.com)
 
-🔗 [Live Demo](https://campus-connect-xi-peach.vercel.app)  
-🔗 [GitHub](https://github.com/Virus-0000/CampusConnect)
-
-### ✅ TaskFlow Manager
-Full-stack task management application built with MERN, TypeScript, JWT, Zustand and Tailwind CSS.
-
-🔗 [Live Demo](https://task-manager-rfo2.onrender.com)  
-🔗 [GitHub](https://github.com/Virus-0000/TaskFlow-Manager-Portfolio)
-
-### 🚗 RideFleet
-Vehicle rental and ride-booking application built using Frappe Framework, Python and MariaDB.
-
-🔗 [GitHub](https://github.com/Virus-0000/irfan_cabs)
+**[RideFleet](https://github.com/Virus-0000/irfan_cabs)**  
+Vehicle rental and ride-booking application using Frappe & Python.
 
 ---
 
-## 🎓 Education
+## 🎯 Currently
 
-**B.Tech in Information Technology**  
-Gulzar Group of Institutes · 2022–2026
-
----
-
-## 📜 Training
-
-**Java Full Stack Development Training**  
-Excellence Technology, Mohali  
-Jan 2026 – Jul 2026
+**Full Stack Development · Backend Engineering · Frappe/ERPNext**
 
 ---
 
-## 🏆 Achievements
-
-- Solved **600+ DSA problems** across LeetCode and GeeksForGeeks
-- Completed **Student Development Program on C++ and Data Structures** — IIT Kanpur
-
----
-
-## 📫 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/divyanshu0506/)
-- [Portfolio](https://portfolio-kappa-brown-v0x6efcjn.vercel.app)
-- [GitHub](https://github.com/Virus-0000)
-
----
-
-### 🚀 Always building. Always learning.
+[Portfolio](https://portfolio-kappa-brown-v0x6efcjn.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/divyanshu0506/) ·
+[GitHub](https://github.com/Virus-0000)
