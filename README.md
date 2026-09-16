@@ -9,6 +9,8 @@ Building modern web applications with **MERN, Java Spring Boot, and Frappe Frame
 ## ⚡ Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Frappe-18181B?style=flat-square&logo=frappe&logoColor=0089FF" />
+  <img src="https://img.shields.io/badge/ERPNext-18181B?style=flat-square&logo=erpnext&logoColor=0089FF" />
   <img src="https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-18181B?style=flat-square&logo=springboot&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -29,7 +31,7 @@ Building modern web applications with **MERN, Java Spring Boot, and Frappe Frame
   <img src="https://img.shields.io/badge/Postman-18181B?style=flat-square&logo=postman&logoColor=FF6C37" />
 </p>
 
-**Frappe Framework** · **Spring Security** · **JWT** · **REST APIs**
+**Also:** Spring Security · JWT · REST APIs · Frappe ORM
 
 ---
 
