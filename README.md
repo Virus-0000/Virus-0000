@@ -1,44 +1,47 @@
 # Divyanshu Raj 👋
 
-### Full Stack Developer
+`full stack` · `mern` · `spring boot` · `frappe` · `java`
 
-Building web applications with **MERN, Java Spring Boot, and Frappe Framework**.
+Full Stack Developer building responsive and scalable web applications.
 
----
-
-## 🛠️ Technologies
+## ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,js,ts,python,mongodb,mysql,html,css,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=java" width="45"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="45"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+  <img src="https://skillicons.dev/icons?i=express" width="45"/>
+  <img src="https://skillicons.dev/icons?i=js" width="45"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="45"/>
+  <img src="https://skillicons.dev/icons?i=python" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+  <img src="https://skillicons.dev/icons?i=html" width="45"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </p>
 
-**Backend:** REST APIs · JWT · Spring Security · Frappe ORM  
-**Databases:** MongoDB · MySQL · MariaDB
+**Also:** Frappe Framework · Spring Security · JWT · REST APIs · MariaDB
 
----
+## 🚀 Projects
 
-## 🚀 Featured Projects
+**[CampusConnect](https://github.com/Virus-0000/CampusConnect)** — MERN-based social networking platform  
+[Live Demo](https://campus-connect-xi-peach.vercel.app)
 
-**[CampusConnect](https://github.com/Virus-0000/CampusConnect)**  
-MERN-based social networking platform for students and developers.  
-[Live](https://campus-connect-xi-peach.vercel.app)
+**[Organic Mart](https://github.com/Virus-0000/organica-ecommerce)** — React + Spring Boot e-commerce platform  
+[Live Demo](https://organica-ecommerce-client.onrender.com)
 
-**[Organic Mart](https://github.com/Virus-0000/organica-ecommerce)**  
-E-commerce platform built with React, Spring Boot, MySQL & Razorpay.  
-[Live](https://organica-ecommerce-client.onrender.com)
+**[TaskFlow Manager](https://github.com/Virus-0000/TaskFlow-Manager-Portfolio)** — MERN + TypeScript task management application  
+[Live Demo](https://task-manager-rfo2.onrender.com)
 
-**[TaskFlow Manager](https://github.com/Virus-0000/TaskFlow-Manager-Portfolio)**  
-Task management application built with MERN, TypeScript & Zustand.  
-[Live](https://task-manager-rfo2.onrender.com)
+**[RideFleet](https://github.com/Virus-0000/irfan_cabs)** — Frappe + Python vehicle rental application
 
-**[RideFleet](https://github.com/Virus-0000/irfan_cabs)**  
-Vehicle rental and ride-booking application using Frappe & Python.
+## 🎯 Focus
 
----
-
-## 🎯 Currently
-
-**Full Stack Development · Backend Engineering · Frappe/ERPNext**
+Full Stack Development · Backend Engineering · Frappe/ERPNext
 
 ---
 
